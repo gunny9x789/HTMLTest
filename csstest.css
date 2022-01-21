@@ -1,0 +1,11 @@
+.blueText{
+    color: rgb(209, 197, 23);
+    }
+#sizebar{
+    font-family: 'The Nautigal', cursive;
+    color: cornsilk;
+    background-color: rgb(143, 8, 196);
+    }
+    ul{
+        list-style-type: square;
+    }
